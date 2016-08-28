@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Watson/unity-sdk-develop/Examples/WidgetExamples/ExampleVisualRecognition.unity
+  isLoaded: 1
+  isActive: 1
